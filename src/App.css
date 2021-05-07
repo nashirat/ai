@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color:  rgb(86, 11, 173);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.Text {
+  margin-top: -20px;
+}
+
+.Text p{
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  align-items: center;
+  background-image: linear-gradient(to right, rgb(86, 11, 173), rgb(247, 37, 133));
+  color: white;
+  max-width: 100vw;
+  height: 100%;
+  padding: 20px;
+}
+
+.usecase {
+  margin-top: 100px;
+  align-items: center;
+  text-align: center;
+  justify-items: center;
+}
+
+.expTittle {
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  align-items: center;
+  background-image: linear-gradient(to right, rgb(86, 11, 173), rgb(247, 37, 133));
+  color: white;
+  max-width: 100vw;
+  height: 100%;
+  padding: 20px;
+}
+
+.exp {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  max-width: 800px;
+  margin: auto auto 35px auto;
+}
+
+img {
+  width: 800px;
+}
